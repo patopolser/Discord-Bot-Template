@@ -16,4 +16,4 @@ python app.py
 
 ## Meta
 
-Patricio Polser – polserdou@gmail.com.com
+Patricio Polser – polserdou@gmail.com
